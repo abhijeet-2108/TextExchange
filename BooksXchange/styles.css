@@ -1,0 +1,55 @@
+.topHeadStyler
+{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 100;
+    font-size: 230%;
+    text-align: center;
+    color: orangered;
+}
+
+.container-fluid
+{
+    background-color: #F0F2EF;
+    color: #0C101C;
+}
+
+
+body
+{
+    background-color: white;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+.bodyLeft
+{
+    background-color: aqua;
+}
+
+.bodyRight
+{
+    background-color: blue;
+}
+
+.left-box
+{
+    background-color: rgba(0, 0, 0, 0.86);
+    color: #F0F2EF;
+    height: 530px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 50px;
+}
+
+.editButtonColor {
+    background-color: transparent;
+}
+
+.editButtonColor:hover
+{
+    background-color: transparent;
+}
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
